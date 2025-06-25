@@ -1,2 +1,2 @@
 se modifica el contenido
-se modifica desde el repositorio remoto
+se modifica desde el repositorio remoto 
